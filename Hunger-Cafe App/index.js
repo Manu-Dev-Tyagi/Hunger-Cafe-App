@@ -3,7 +3,7 @@
  */
 
 import { AppRegistry } from 'react-native';
-import App from './App'; // Adjust the path to your main App component
+import App from './App'; 
 import { name as appName } from './app.json';
 
 // Register the main component of your application
